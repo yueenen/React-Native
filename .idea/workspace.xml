@@ -2,53 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99497678-dfed-4df4-ba05-10757a89876c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/.buckconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/.flowconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/.watchmanconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/__tests__/index.android.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/__tests__/index.ios.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/app/BUCK" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/app/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/app/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/app/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/app/src/main/java/com/ahelloworld/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/app/src/main/java/com/ahelloworld/MainApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/app/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/app/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/gradle.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/keystores/BUCK" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/keystores/debug.keystore.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/android/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/index.android.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/index.ios.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/ios/AHelloWorld.xcodeproj/project.pbxproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/ios/AHelloWorld.xcodeproj/xcshareddata/xcschemes/AHelloWorld.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/ios/AHelloWorld/AppDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/ios/AHelloWorld/AppDelegate.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/ios/AHelloWorld/Base.lproj/LaunchScreen.xib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/ios/AHelloWorld/Images.xcassets/AppIcon.appiconset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/ios/AHelloWorld/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/ios/AHelloWorld/main.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/ios/AHelloWorldTests/AHelloWorldTests.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/ios/AHelloWorldTests/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AHelloWorld/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/.buckconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/.flowconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/.watchmanconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/__tests__/index.android.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/__tests__/index.ios.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/app/BUCK" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/app/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/app/proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/app/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/app/src/main/java/com/bmyproject/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/app/src/main/java/com/bmyproject/MainApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/app/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/keystores/BUCK" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/keystores/debug.keystore.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/android/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/index.android.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/index.ios.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/ios/BmyProject.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/ios/BmyProject.xcodeproj/xcshareddata/xcschemes/BmyProject.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/ios/BmyProject/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/ios/BmyProject/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/ios/BmyProject/Base.lproj/LaunchScreen.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/ios/BmyProject/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/ios/BmyProject/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/ios/BmyProject/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/ios/BmyProjectTests/BmyProjectTests.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/ios/BmyProjectTests/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AHelloWorld/index.ios.js" afterPath="$PROJECT_DIR$/AHelloWorld/index.ios.js" />
     </list>
     <ignored path="React-Native.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,46 +68,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AHelloWorld/index.ios.js">
+        <entry file="file://$PROJECT_DIR$/BMyProject/index.ios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#89#130#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AHelloWorld/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.android.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AHelloWorld/index.android.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+            <state relative-caret-position="668">
+              <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".watchmanconfig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AHelloWorld/.watchmanconfig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -126,6 +90,7 @@
         <option value="$PROJECT_DIR$/AHelloWorld/android/app/build.gradle" />
         <option value="$PROJECT_DIR$/AHelloWorld/index.android.js" />
         <option value="$PROJECT_DIR$/AHelloWorld/index.ios.js" />
+        <option value="$PROJECT_DIR$/BMyProject/index.ios.js" />
       </list>
     </option>
   </component>
@@ -193,7 +158,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AHelloWorld" />
+              <option name="myItemId" value="BMyProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -232,12 +197,12 @@
       <workItem from="1484188172526" duration="1504000" />
       <workItem from="1484206910402" duration="205000" />
       <workItem from="1484207130812" duration="97000" />
-      <workItem from="1484207246244" duration="314000" />
+      <workItem from="1484207246244" duration="2744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2237000" />
+    <option name="totallyTimeSpent" value="4667000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -248,17 +213,17 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31333333" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -283,7 +248,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#130#0" expanded="true" />
+            <element signature="e#89#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -302,7 +267,7 @@
           <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#130#0" expanded="true" />
+            <element signature="e#89#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -348,11 +313,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AHelloWorld/index.ios.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        <state relative-caret-position="780">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#130#0" expanded="true" />
+            <element signature="e#89#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -380,6 +345,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BMyProject/index.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
