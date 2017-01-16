@@ -10,7 +10,8 @@ import {
     StyleSheet,
     Text,
     View,
-    Image
+    Image,
+    TextInput
 } from 'react-native';
 
 export default class BmyProject extends Component {
@@ -175,11 +176,11 @@ const styles2 = StyleSheet.create({
 
 });
 
-/**
- * 引入内库: Dimensions
- */
 
-var Dimensions = require('Dimensions');
+/**
+ * 引入内库: Dimensions 及其使用方式
+ */
+//var Dimensions = require('Dimensions');
 class BmyProject3 extends Component {
     render() {
         return (
@@ -201,20 +202,28 @@ const styles3 = StyleSheet.create({
     }
 });
 
+
+/**
+ * 第四个程序, Image 组件的使用
+ */
 class BmyProject4 extends Component {
     render() {
         return (
             <View style={styles4.container}>
-                <Text>这是 BmyProject5</Text>
+                <Text>这是 BmyProject4</Text>
 
 
                 <Text>从项目中加载图片</Text>
-                <Image source={require('./img/icon.png')} style={styles4.ImageStyle} />
+                <Image source={require('./img/icon.png')} style={styles4.ImageStyle}/>
 
 
                 <Text>从网络中加载图片</Text>
+                <Image source={{uri: 'https://www.baidu.com/img/bd_logo1.png'}} style={styles4.ImageStyle}/>
+
+
+                <Text>用图片做背景</Text>
                 <Image source={{uri: 'https://www.baidu.com/img/bd_logo1.png'}} style={styles4.ImageStyle}>
-                    <Text>文字文字文字</Text>
+                    <Text style={{backgroundColor: 'transparent'}}>文字文字文字</Text>
                 </Image>
 
             </View>
@@ -233,8 +242,102 @@ const styles4 = StyleSheet.create({
         height: 100,
         // resizeMode: Image.resizeMode.cover
         resizeMode: 'cover',
-        marginBottom:20
+        marginBottom: 20
     }
 });
 
-AppRegistry.registerComponent('BmyProject', () => BmyProject4);//BmyProject是项目名称,不能修改,修改的只是类名
+
+/**
+ * 第五个程序, 从 json 中获取数据, 遍历数据, 展示出来
+ */
+
+// 导入数据
+var badgeData = require('./badgeData.json');
+var Dimensions = require('Dimensions');
+var width = Dimensions.get('window').width;
+
+// 定义一些全局的变量
+var cols = 3;
+var boxWidth = 100;
+var wrapMargin = (width - cols * boxWidth) / (cols + 1);
+var statusHeight = 24;
+
+class BmyProject5 extends Component {
+    render() {
+        return (
+            <View style={styles5.container}>
+                {/*返回6个包*/}
+                {this.renderAllBadge()}
+            </View>
+        )
+    }
+
+    renderAllBadge() {
+        var allBadge = [];
+        for (var i = 0; i < badgeData.data.length; i++) {
+            var badge = badgeData.data[i];
+            allBadge.push(
+                //数据不能区分这几个数据是否一样, 需要增加唯一标识, key = i
+                <View key={i} style={styles5.wrapStyle}>
+                    {/*图片需要设置尺寸才能出来*/}
+                    <Image source={require('./img/danjianbao.png')} style={styles5.imageStyle}/>
+                    {/*<Image source={{uri: badge.icon}} style={styles5.imageStyle} />*/}
+                    <Text style={styles5.tilStyle}>{badge.title}</Text>
+                    <Text>{width}</Text>
+                </View>
+            );
+        }
+        return allBadge;
+    }
+}
+const styles5 = StyleSheet.create({
+    container: {
+        flexDirection: 'row',
+        flexWrap: 'wrap',
+        //justifyContent: 'space-around',
+        //alignItems: 'center',
+        //backgroundColor: 'yellow',
+        marginTop: statusHeight
+    },
+    wrapStyle: {
+        width: boxWidth,
+        height: 100,
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#f3f3f3',
+        marginBottom: wrapMargin,
+        marginLeft: wrapMargin
+    },
+    imageStyle: {
+        width: 50,
+        height: 50
+    },
+    tilStyle: {}
+});
+
+/**
+ * 第 6 个应用程序, 组件 TextInput 的使用
+ */
+class BmyProject6 extends Component {
+    render() {
+        return (
+            <View>
+                <TextInput
+                    style={styles6.inputStyle}
+                    keyboardType={'number-pad'}
+                    multiline={true}
+                />
+            </View>
+        );
+    }
+}
+const styles6 = StyleSheet.create({
+    inputStyle: {
+        width: width,
+        height: 30,
+        backgroundColor: 'yellow',
+        marginTop: statusHeight
+    },
+});
+
+AppRegistry.registerComponent('BmyProject', () => BmyProject5);//BmyProject是项目名称,不能修改,修改的只是类名

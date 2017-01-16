@@ -260,6 +260,7 @@ var width = Dimensions.get('window').width;
 var cols = 3;
 var boxWidth = 100;
 var wrapMargin = (width - cols * boxWidth) / (cols + 1);
+var statusHeight = 24;
 
 class BmyProject5 extends Component {
     render() {
@@ -296,7 +297,7 @@ const styles5 = StyleSheet.create({
         //justifyContent: 'space-around',
         //alignItems: 'center',
         //backgroundColor: 'yellow',
-        marginTop: 24
+        marginTop: statusHeight
     },
     wrapStyle: {
         width: boxWidth,
@@ -314,4 +315,29 @@ const styles5 = StyleSheet.create({
     tilStyle: {}
 });
 
-AppRegistry.registerComponent('BmyProject', () => BmyProject5);//BmyProject是项目名称,不能修改,修改的只是类名
+/**
+ * 第 6 个应用程序, 组件 TextInput 的使用
+ */
+class BmyProject6 extends Component {
+    render() {
+        return (
+            <View>
+                <TextInput
+                    style={styles6.inputStyle}
+                    keyboardType={'number-pad'}
+                    multiline={true}
+                />
+            </View>
+        );
+    }
+}
+const styles6 = StyleSheet.create({
+    inputStyle: {
+        width: width,
+        height: 30,
+        backgroundColor: 'yellow',
+        marginTop: statusHeight
+    },
+});
+
+AppRegistry.registerComponent('BmyProject', () => BmyProject6);//BmyProject是项目名称,不能修改,修改的只是类名
