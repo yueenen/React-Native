@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99497678-dfed-4df4-ba05-10757a89876c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/img/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/img/icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/img/icon7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BMyProject/img/icon8.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BMyProject/index.android.js" afterPath="$PROJECT_DIR$/BMyProject/index.android.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BMyProject/index.ios.js" afterPath="$PROJECT_DIR$/BMyProject/index.ios.js" />
@@ -26,37 +30,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BMyProject/index.ios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="189" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+            <state relative-caret-position="229">
+              <caret line="214" column="37" selection-start-line="214" selection-start-column="37" selection-end-line="214" selection-end-column="37" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#231#832#0" expanded="false" />
-                <element signature="e#866#1210#0" expanded="false" />
+                <element signature="e#89#128#0" expanded="true" />
+                <element signature="e#240#841#0" expanded="false" />
+                <element signature="e#875#1219#0" expanded="false" />
                 <element signature="n#BmyProject1#0" expanded="false" />
-                <element signature="e#1798#2532#0" expanded="false" />
+                <element signature="e#1807#2541#0" expanded="false" />
                 <element signature="n#BmyProject2#0" expanded="false" />
-                <element signature="e#3540#4271#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.android.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BMyProject/index.android.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="202" column="0" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#231#744#0" expanded="false" />
-                <element signature="e#778#1070#0" expanded="false" />
-                <element signature="n#BmyProject1#0" expanded="false" />
-                <element signature="e#1588#2210#0" expanded="false" />
-                <element signature="n#BmyProject2#0" expanded="false" />
-                <element signature="e#3002#3621#0" expanded="false" />
+                <element signature="e#3549#4280#0" expanded="false" />
+                <element signature="e#4796#4964#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -73,8 +61,8 @@
         <option value="$PROJECT_DIR$/AHelloWorld/android/app/build.gradle" />
         <option value="$PROJECT_DIR$/AHelloWorld/index.android.js" />
         <option value="$PROJECT_DIR$/AHelloWorld/index.ios.js" />
-        <option value="$PROJECT_DIR$/BMyProject/index.ios.js" />
         <option value="$PROJECT_DIR$/BMyProject/index.android.js" />
+        <option value="$PROJECT_DIR$/BMyProject/index.ios.js" />
       </list>
     </option>
   </component>
@@ -160,6 +148,11 @@
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v6.9.1/bin/node" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.9.1/bin/node" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BMyProject/img" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
@@ -233,12 +226,12 @@
       <workItem from="1484206910402" duration="205000" />
       <workItem from="1484207130812" duration="97000" />
       <workItem from="1484207246244" duration="4577000" />
-      <workItem from="1484306093356" duration="7272000" />
+      <workItem from="1484306093356" duration="10368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13772000" />
+    <option name="totallyTimeSpent" value="16868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -250,7 +243,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22333333" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22333333" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -284,12 +277,14 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#231#832#0" expanded="false" />
-            <element signature="e#866#1210#0" expanded="false" />
+            <element signature="e#89#128#0" expanded="true" />
+            <element signature="e#240#841#0" expanded="false" />
+            <element signature="e#875#1219#0" expanded="false" />
             <element signature="n#BmyProject1#0" expanded="false" />
-            <element signature="e#1798#2532#0" expanded="false" />
+            <element signature="e#1807#2541#0" expanded="false" />
             <element signature="n#BmyProject2#0" expanded="false" />
-            <element signature="e#3540#4271#0" expanded="false" />
+            <element signature="e#3549#4280#0" expanded="false" />
+            <element signature="e#4796#4964#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -396,34 +391,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BMyProject/index.ios.js">
+    <entry file="file://$PROJECT_DIR$/BMyProject/index.android.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="189" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="209" column="0" selection-start-line="209" selection-start-column="0" selection-end-line="209" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#231#832#0" expanded="false" />
-            <element signature="e#866#1210#0" expanded="false" />
+            <element signature="e#89#128#0" expanded="true" />
+            <element signature="e#240#841#0" expanded="false" />
+            <element signature="e#875#1219#0" expanded="false" />
             <element signature="n#BmyProject1#0" expanded="false" />
-            <element signature="e#1798#2532#0" expanded="false" />
+            <element signature="e#1807#2541#0" expanded="false" />
             <element signature="n#BmyProject2#0" expanded="false" />
-            <element signature="e#3540#4271#0" expanded="false" />
+            <element signature="e#3549#4280#0" expanded="false" />
+            <element signature="e#4796#4964#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BMyProject/index.android.js">
+    <entry file="file://$PROJECT_DIR$/BMyProject/index.ios.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="202" column="0" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+        <state relative-caret-position="229">
+          <caret line="214" column="37" selection-start-line="214" selection-start-column="37" selection-end-line="214" selection-end-column="37" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#231#744#0" expanded="false" />
-            <element signature="e#778#1070#0" expanded="false" />
+            <element signature="e#89#128#0" expanded="true" />
+            <element signature="e#240#841#0" expanded="false" />
+            <element signature="e#875#1219#0" expanded="false" />
             <element signature="n#BmyProject1#0" expanded="false" />
-            <element signature="e#1588#2210#0" expanded="false" />
+            <element signature="e#1807#2541#0" expanded="false" />
             <element signature="n#BmyProject2#0" expanded="false" />
-            <element signature="e#3002#3621#0" expanded="false" />
+            <element signature="e#3549#4280#0" expanded="false" />
+            <element signature="e#4796#4964#0" expanded="false" />
           </folding>
         </state>
       </provider>

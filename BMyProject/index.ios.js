@@ -4,12 +4,13 @@
  * @flow
  */
 
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import {
     AppRegistry,
     StyleSheet,
     Text,
-    View
+    View,
+    Image
 } from 'react-native';
 
 export default class BmyProject extends Component {
@@ -179,10 +180,11 @@ const styles2 = StyleSheet.create({
  */
 
 var Dimensions = require('Dimensions');
-class BmyProject3 extends Component{
-    render(){
-        return(
+class BmyProject3 extends Component {
+    render() {
+        return (
             <View style={styles3.container}>
+                <Text>这是 BmyProject3</Text>
                 <Text>当前屏幕的宽度:{Dimensions.get('window').width}</Text>
                 <Text>当前屏幕的高度:{Dimensions.get('window').height}</Text>
                 <Text>当前屏幕的分辨率:{Dimensions.get('window').scale}</Text>
@@ -191,12 +193,52 @@ class BmyProject3 extends Component{
     }
 }
 const styles3 = StyleSheet.create({
-    container:{
-        flex:1,
-        justifyContent:'center', // 设置主轴方向对齐方式
-        alignItems:'center', // 设置横轴方向对齐方式
-        backgroundColor:'pink',
+    container: {
+        flex: 1,
+        justifyContent: 'center', // 设置主轴方向对齐方式
+        alignItems: 'center', // 设置横轴方向对齐方式
+        backgroundColor: 'pink',
     }
 });
 
-AppRegistry.registerComponent('BmyProject', () => BmyProject3);//BmyProject是项目名称,不能修改,修改的只是类名
+class BmyProject4 extends Component {
+    render() {
+        return (
+            <View style={styles4.container}>
+                <Text>这是 BmyProject4</Text>
+
+
+                <Text>从项目中加载图片</Text>
+                <Image source={require('./img/icon.png')} style={styles4.ImageStyle} />
+
+
+                <Text>从网络中加载图片</Text>
+                <Image source={{uri: 'https://www.baidu.com/img/bd_logo1.png'}} style={styles4.ImageStyle} />
+
+
+                <Text>用图片做背景</Text>
+                <Image source={{uri: 'https://www.baidu.com/img/bd_logo1.png'}} style={styles4.ImageStyle}>
+                    <Text style={{backgroundColor: 'transparent'}}>文字文字文字</Text>
+                </Image>
+
+            </View>
+        )
+    }
+}
+const styles4 = StyleSheet.create({
+    container: {
+        flex: 1,
+        justifyContent: 'center', // 设置主轴方向对齐方式
+        alignItems: 'center', // 设置横轴方向对齐方式
+        backgroundColor: 'pink',
+    },
+    ImageStyle: {
+        width: 100,
+        height: 100,
+        // resizeMode: Image.resizeMode.cover
+        resizeMode: 'cover',
+        marginBottom:20
+    }
+});
+
+AppRegistry.registerComponent('BmyProject', () => BmyProject4);//BmyProject是项目名称,不能修改,修改的只是类名
