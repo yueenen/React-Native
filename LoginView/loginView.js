@@ -12,7 +12,8 @@ import {
     View,
     Image,
     TextInput,
-    TouchableOpacity
+    TouchableOpacity,
+    ScrollView
 } from 'react-native';
 
 var Dimensions = require('Dimensions');
@@ -49,7 +50,8 @@ var loginView = React.createClass({
                     <View style={styles.loginBtnStyle}>
                         <Text style={{color: 'white', fontSize: 16, fontWeight: 'bold'}}>{this.state.title}</Text>
                     </View>
-                    <View><Text style={{textAlign:'center',color:'red',marginTop:5}}>{this.state.login}</Text></View>
+                    <View><Text
+                        style={{textAlign: 'center', color: 'red', marginTop: 5}}>{this.state.login}</Text></View>
                 </TouchableOpacity>
 
 
@@ -79,11 +81,10 @@ var loginView = React.createClass({
     activeEvent(event){
         this.setState({
             title: event,
-            login:'登录失败'
+            login: '登录失败'
         });
     }
 });
-
 // class loginView extends Component {
 //     render() {
 //         return (
@@ -131,7 +132,6 @@ var loginView = React.createClass({
 //     //      alert('登录成功');
 //     // }
 // }
-
 const styles = StyleSheet.create({
     container: {
         flex: 1,
@@ -184,4 +184,5 @@ const styles = StyleSheet.create({
         marginLeft: 10
     }
 });
+
 module.exports = loginView;

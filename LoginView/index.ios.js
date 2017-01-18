@@ -12,14 +12,27 @@ import {
   View
 } from 'react-native';
 
-var loginView = require('./loginView');
 
+/**
+ * loginView
+ */
+// var loginView = require('./loginView');
+// export default class LoginView extends Component {
+//   render() {
+//     return (
+//       <loginView />
+//     );
+//   }
+// }
+// AppRegistry.registerComponent('LoginView', () => loginView);
+
+var scrollView = require('./scrollView');
 export default class LoginView extends Component {
   render() {
     return (
-      <loginView />
+        <loginView />
     );
   }
 }
+AppRegistry.registerComponent('LoginView', () => scrollView);
 
-AppRegistry.registerComponent('LoginView', () => loginView);

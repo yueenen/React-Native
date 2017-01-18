@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99497678-dfed-4df4-ba05-10757a89876c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/img/img_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/img/img_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/img/img_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/img/img_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/img/img_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/scrollView.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LoginView/index.ios.js" afterPath="$PROJECT_DIR$/LoginView/index.ios.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LoginView/loginView.js" afterPath="$PROJECT_DIR$/LoginView/loginView.js" />
     </list>
     <ignored path="React-Native.iws" />
@@ -25,43 +32,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BMyProject/index.ios.js">
+      <file leaf-file-name="loginView.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoginView/loginView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="246" column="3" selection-start-line="246" selection-start-column="3" selection-end-line="246" selection-end-column="3" />
+            <state relative-caret-position="460">
+              <caret line="133" column="4" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="4" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#89#128#0" expanded="true" />
-                <element signature="e#255#856#0" expanded="false" />
-                <element signature="e#890#1234#0" expanded="false" />
-                <element signature="n#BmyProject1#0" expanded="false" />
-                <element signature="e#1822#2556#0" expanded="false" />
-                <element signature="n#BmyProject2#0" expanded="false" />
-                <element signature="e#3564#4295#0" expanded="false" />
-                <element signature="n#!!doc;n#BmyProject3#0" expanded="false" />
-                <element signature="n#BmyProject3#0" expanded="false" />
-                <element signature="e#4820#4988#0" expanded="false" />
-                <element signature="n#!!doc;n#BmyProject4#0" expanded="false" />
-                <element signature="n#BmyProject4#0" expanded="false" />
-                <element signature="e#5783#6117#0" expanded="false" />
-                <element signature="n#BmyProject5#0" expanded="false" />
-                <element signature="n#!!doc;n#BmyProject6#0" expanded="false" />
+                <element signature="e#407#2782#0" expanded="false" />
+                <element signature="e#2785#2823#0" expanded="false" />
+                <element signature="e#4525#5675#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loginView.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LoginView/loginView.js">
+      <file leaf-file-name="scrollView.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LoginView/scrollView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+            <state relative-caret-position="427">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#89#128#0" expanded="true" />
-                <element signature="e#2740#2778#0" expanded="false" />
-                <element signature="e#4481#5631#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoginView/index.ios.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#89#130#0" expanded="true" />
+                <element signature="e#209#229#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -90,9 +98,10 @@
         <option value="$PROJECT_DIR$/BMyProject/badgeData.json" />
         <option value="$PROJECT_DIR$/BMyProject/index.ios.js" />
         <option value="$PROJECT_DIR$/BMyProject/index.android.js" />
-        <option value="$PROJECT_DIR$/LoginView/index.ios.js" />
         <option value="$PROJECT_DIR$/LoginView/index.android.js" />
         <option value="$PROJECT_DIR$/LoginView/loginView.js" />
+        <option value="$PROJECT_DIR$/LoginView/index.ios.js" />
+        <option value="$PROJECT_DIR$/LoginView/scrollView.js" />
       </list>
     </option>
   </component>
@@ -178,20 +187,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="React-Native" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="React-Native" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BMyProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -297,12 +292,12 @@
       <workItem from="1484207246244" duration="4577000" />
       <workItem from="1484306093356" duration="20322000" />
       <workItem from="1484616951920" duration="1173000" />
-      <workItem from="1484625098618" duration="10695000" />
+      <workItem from="1484625098618" duration="11919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38690000" />
+    <option name="totallyTimeSpent" value="39914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -513,17 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LoginView/index.ios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LoginView/index.android.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -536,8 +520,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BMyProject/index.ios.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="246" column="3" selection-start-line="246" selection-start-column="3" selection-end-line="246" selection-end-column="3" />
+        <state relative-caret-position="287">
+          <caret line="308" column="18" selection-start-line="308" selection-start-column="18" selection-end-line="308" selection-end-column="18" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#89#128#0" expanded="true" />
@@ -561,13 +545,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LoginView/loginView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+        <state relative-caret-position="460">
+          <caret line="133" column="4" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="4" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#89#128#0" expanded="true" />
-            <element signature="e#2740#2778#0" expanded="false" />
-            <element signature="e#4481#5631#0" expanded="false" />
+            <element signature="e#407#2782#0" expanded="false" />
+            <element signature="e#2785#2823#0" expanded="false" />
+            <element signature="e#4525#5675#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginView/index.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#89#130#0" expanded="true" />
+            <element signature="e#209#229#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginView/scrollView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#89#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
