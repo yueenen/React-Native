@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99497678-dfed-4df4-ba05-10757a89876c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/img/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/img/icon3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/img/icon7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/img/icon8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/loginView.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LoginView/loginView.js" afterPath="$PROJECT_DIR$/LoginView/loginView.js" />
     </list>
     <ignored path="React-Native.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,11 +55,13 @@
       <file leaf-file-name="loginView.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LoginView/loginView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="313">
+              <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#89#128#0" expanded="true" />
+                <element signature="e#2740#2778#0" expanded="false" />
+                <element signature="e#4481#5631#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -299,12 +297,12 @@
       <workItem from="1484207246244" duration="4577000" />
       <workItem from="1484306093356" duration="20322000" />
       <workItem from="1484616951920" duration="1173000" />
-      <workItem from="1484625098618" duration="8299000" />
+      <workItem from="1484625098618" duration="10695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36294000" />
+    <option name="totallyTimeSpent" value="38690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -563,11 +561,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LoginView/loginView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="313">
+          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#89#128#0" expanded="true" />
+            <element signature="e#2740#2778#0" expanded="false" />
+            <element signature="e#4481#5631#0" expanded="false" />
           </folding>
         </state>
       </provider>
