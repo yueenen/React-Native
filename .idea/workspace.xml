@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99497678-dfed-4df4-ba05-10757a89876c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BMyProject/index.android.js" afterPath="$PROJECT_DIR$/BMyProject/index.android.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BMyProject/index.ios.js" afterPath="$PROJECT_DIR$/BMyProject/index.ios.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/img/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/img/icon3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/img/icon7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/img/icon8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoginView/loginView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="React-Native.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,35 +32,8 @@
       <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BMyProject/index.ios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="335" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="343" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#89#128#0" expanded="true" />
-                <element signature="e#255#856#0" expanded="false" />
-                <element signature="e#890#1234#0" expanded="false" />
-                <element signature="n#BmyProject1#0" expanded="false" />
-                <element signature="n#!!doc;n#BmyProject3#0" expanded="false" />
-                <element signature="n#BmyProject3#0" expanded="false" />
-                <element signature="e#4820#4988#0" expanded="false" />
-                <element signature="n#!!doc;n#BmyProject4#0" expanded="false" />
-                <element signature="n#BmyProject4#0" expanded="false" />
-                <element signature="e#5783#6117#0" expanded="false" />
-                <element signature="n#BmyProject5#0" expanded="false" />
-                <element signature="n#!!doc;n#BmyProject6#0" expanded="false" />
-                <marker date="1484576538000" expanded="false" signature="1822:2556" ph="{...}" />
-                <marker date="1484576538000" expanded="false" signature="2596:3529" ph="{...}" />
-                <marker date="1484576538000" expanded="false" signature="3564:4295" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.android.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BMyProject/index.android.js">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
-              <caret line="342" column="61" selection-start-line="342" selection-start-column="61" selection-end-line="342" selection-end-column="61" />
+              <caret line="246" column="3" selection-start-line="246" selection-start-column="3" selection-end-line="246" selection-end-column="3" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#89#128#0" expanded="true" />
@@ -79,12 +56,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="badgeData.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BMyProject/badgeData.json">
+      <file leaf-file-name="loginView.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LoginView/loginView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="380">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#89#128#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,6 +92,9 @@
         <option value="$PROJECT_DIR$/BMyProject/badgeData.json" />
         <option value="$PROJECT_DIR$/BMyProject/index.ios.js" />
         <option value="$PROJECT_DIR$/BMyProject/index.android.js" />
+        <option value="$PROJECT_DIR$/LoginView/index.ios.js" />
+        <option value="$PROJECT_DIR$/LoginView/index.android.js" />
+        <option value="$PROJECT_DIR$/LoginView/loginView.js" />
       </list>
     </option>
   </component>
@@ -178,7 +161,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BMyProject" />
+              <option name="myItemId" value="LoginView" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -192,69 +175,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BMyProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ios" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="React-Native" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="React-Native" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BMyProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ios" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BmyProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="React-Native" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="React-Native" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BMyProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ios" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BmyProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Images.xcassets" />
+              <option name="myItemId" value="LoginView" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="danjianbao.imageset" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -267,40 +194,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="BMyProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ios" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BmyProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Images.xcassets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppIcon.appiconset" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="React-Native" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="React-Native" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BMyProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -320,13 +213,14 @@
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.9.1/bin/node" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LoginView/img" />
+      <recent name="$PROJECT_DIR$/BMyProject/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/BMyProject/ios/BmyProject/Images.xcassets/img/danjianbao.imageset" />
       <recent name="$PROJECT_DIR$/BMyProject/ios/BmyProject/Images.xcassets/img" />
       <recent name="$PROJECT_DIR$/BMyProject/ios/BmyProject/Images.xcassets/AppIcon.appiconset" />
-      <recent name="$PROJECT_DIR$/BMyProject/img" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/BMyProject/img" />
     </key>
   </component>
@@ -403,12 +297,14 @@
       <workItem from="1484206910402" duration="205000" />
       <workItem from="1484207130812" duration="97000" />
       <workItem from="1484207246244" duration="4577000" />
-      <workItem from="1484306093356" duration="19290000" />
+      <workItem from="1484306093356" duration="20322000" />
+      <workItem from="1484616951920" duration="1173000" />
+      <workItem from="1484625098618" duration="8299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25790000" />
+    <option name="totallyTimeSpent" value="36294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -417,10 +313,10 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21458334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22333333" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22333333" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -458,6 +354,9 @@
             <element signature="e#255#856#0" expanded="false" />
             <element signature="e#890#1234#0" expanded="false" />
             <element signature="n#BmyProject1#0" expanded="false" />
+            <element signature="e#1822#2556#0" expanded="false" />
+            <element signature="n#BmyProject2#0" expanded="false" />
+            <element signature="e#3564#4295#0" expanded="false" />
             <element signature="n#!!doc;n#BmyProject3#0" expanded="false" />
             <element signature="n#BmyProject3#0" expanded="false" />
             <element signature="e#4820#4988#0" expanded="false" />
@@ -466,9 +365,6 @@
             <element signature="e#5783#6117#0" expanded="false" />
             <element signature="n#BmyProject5#0" expanded="false" />
             <element signature="n#!!doc;n#BmyProject6#0" expanded="false" />
-            <marker date="1484576538000" expanded="false" signature="1822:2556" ph="{...}" />
-            <marker date="1484576538000" expanded="false" signature="2596:3529" ph="{...}" />
-            <marker date="1484576538000" expanded="false" signature="3564:4295" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -477,10 +373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#128#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -495,10 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#128#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -513,9 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -544,10 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#128#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -562,9 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -579,13 +457,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BMyProject/ios/BmyProject/Images.xcassets/img/danjianbao.imageset/danjianbao.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BMyProject/ios/BmyProject/Images.xcassets/AppIcon.appiconset/Contents.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BMyProject/img/icon3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BMyProject/img/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BMyProject/index.android.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="310" column="17" selection-start-line="310" selection-start-column="17" selection-end-line="310" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#89#128#0" expanded="false" />
+            <element signature="e#255#856#0" expanded="false" />
+            <element signature="e#890#1234#0" expanded="false" />
+            <element signature="n#BmyProject1#0" expanded="false" />
+            <element signature="e#1822#2556#0" expanded="false" />
+            <element signature="n#BmyProject2#0" expanded="false" />
+            <element signature="e#3564#4295#0" expanded="false" />
+            <element signature="n#!!doc;n#BmyProject3#0" expanded="false" />
+            <element signature="n#BmyProject3#0" expanded="false" />
+            <element signature="e#4820#4988#0" expanded="false" />
+            <element signature="n#!!doc;n#BmyProject4#0" expanded="false" />
+            <element signature="n#BmyProject4#0" expanded="false" />
+            <element signature="e#5783#6117#0" expanded="false" />
+            <element signature="n#BmyProject5#0" expanded="false" />
+            <element signature="n#!!doc;n#BmyProject6#0" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BMyProject/badgeData.json">
@@ -596,43 +515,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BMyProject/ios/BmyProject/Images.xcassets/AppIcon.appiconset/Contents.json">
+    <entry file="file://$PROJECT_DIR$/LoginView/index.ios.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="280">
+          <caret line="14" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#89#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginView/index.android.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding>
+            <element signature="e#89#130#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BMyProject/index.ios.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="335" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="343" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#128#0" expanded="true" />
-            <element signature="e#255#856#0" expanded="false" />
-            <element signature="e#890#1234#0" expanded="false" />
-            <element signature="n#BmyProject1#0" expanded="false" />
-            <element signature="n#!!doc;n#BmyProject3#0" expanded="false" />
-            <element signature="n#BmyProject3#0" expanded="false" />
-            <element signature="e#4820#4988#0" expanded="false" />
-            <element signature="n#!!doc;n#BmyProject4#0" expanded="false" />
-            <element signature="n#BmyProject4#0" expanded="false" />
-            <element signature="e#5783#6117#0" expanded="false" />
-            <element signature="n#BmyProject5#0" expanded="false" />
-            <element signature="n#!!doc;n#BmyProject6#0" expanded="false" />
-            <marker date="1484576538000" expanded="false" signature="1822:2556" ph="{...}" />
-            <marker date="1484576538000" expanded="false" signature="2596:3529" ph="{...}" />
-            <marker date="1484576538000" expanded="false" signature="3564:4295" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BMyProject/index.android.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
-          <caret line="342" column="61" selection-start-line="342" selection-start-column="61" selection-end-line="342" selection-end-column="61" />
+          <caret line="246" column="3" selection-start-line="246" selection-start-column="3" selection-end-line="246" selection-end-column="3" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#89#128#0" expanded="true" />
@@ -650,6 +557,17 @@
             <element signature="e#5783#6117#0" expanded="false" />
             <element signature="n#BmyProject5#0" expanded="false" />
             <element signature="n#!!doc;n#BmyProject6#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginView/loginView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#89#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
