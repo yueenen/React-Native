@@ -22,9 +22,13 @@ var width = Dimensions.get('window').width;
 class scrollViewDemo extends Component {
     render() {
         return (
-            <ScrollView>
+            <ScrollView
+                horizontal={true}
+                pagingEnabled={true}
+                showsHorizontalScrollIndicator={false}
+
+            >
                 {this.renderChildview()}
-                <Image source={require('./img/img_01.png')}></Image>
             </ScrollView>
         )
     }
@@ -36,10 +40,11 @@ class scrollViewDemo extends Component {
             var color = colors[i];
             allChild.push(
                 <View key={i} style={{backgroundColor: color, width: width, height: 120}}>
-                    <Text>{i}</Text>
+                    <Text style={{textAlign:'center',position:'absolute',left: width*0.5, bottom:10}}>{(i+1)}</Text>
                 </View>
             );
         }
+        return allChild;
     }
 }
 
