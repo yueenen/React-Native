@@ -131,10 +131,12 @@ var scrollViewDemo1 = React.createClass({
             this.setState({
                 currentPage: activePage
             });
+            console.log(activePage);
+
 
             // 2.4 设置 scrollView 滚动
-            var offsetX = activePage * width;
-            scrollView.scrollResponderScrollTo({x: offsetX, y: 0, animated: true});
+            // var offsetX = activePage * width;
+            //scrollView.scrollResponderScrollTo({x: (activePage*width), y: 0, animated: true});
 
         }, this.props.duration);
     },
@@ -176,7 +178,7 @@ var scrollViewDemo1 = React.createClass({
 
         // 2. 根据偏移量求出当前的页数
         var currentPage = Math.floor(offsetX / width);
-        console.log(currentPage);
+        // console.log(currentPage);
 
         // 3. 更新状态机,重新绘制 UI
         this.setState({
