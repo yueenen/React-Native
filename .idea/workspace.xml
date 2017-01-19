@@ -2,133 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99497678-dfed-4df4-ba05-10757a89876c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/1.imageset/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/10.imageset/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/11.imageset/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/12.imageset/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/13.imageset/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/14.imageset/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/15.imageset/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/16.imageset/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/17.imageset/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/18.imageset/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/19.imageset/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/2.imageset/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/20.imageset/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/21.imageset/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/22.imageset/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/3.imageset/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/4.imageset/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/5.imageset/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/6.imageset/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/7.imageset/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/8.imageset/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/9.imageset/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/Wine.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/1.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/10.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/11.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/12.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/13.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/14.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/15.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/16.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/17.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/18.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/19.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/2.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/20.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/21.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/22.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/3.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/4.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/5.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/6.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/7.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/8.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/9.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Images.xcassets/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Images.xcassets/img/Contents.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LoginView/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LoginView/.watchmanconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LoginView/ImageData.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LoginView/index.android.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LoginView/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LoginView/scrollView.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ListViewDemo/listViewDemoIndex.js" afterPath="$PROJECT_DIR$/ListViewDemo/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/.babelrc" afterPath="$PROJECT_DIR$/cLoginView/.babelrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/.buckconfig" afterPath="$PROJECT_DIR$/cLoginView/.buckconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/.flowconfig" afterPath="$PROJECT_DIR$/cLoginView/.flowconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/.gitattributes" afterPath="$PROJECT_DIR$/cLoginView/.gitattributes" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/.gitignore" afterPath="$PROJECT_DIR$/cLoginView/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/.watchmanconfig" afterPath="$PROJECT_DIR$/cLoginView/.watchmanconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ImageData.json" afterPath="$PROJECT_DIR$/cLoginView/ImageData.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/__tests__/index.android.js" afterPath="$PROJECT_DIR$/cLoginView/__tests__/index.android.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/__tests__/index.ios.js" afterPath="$PROJECT_DIR$/cLoginView/__tests__/index.ios.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/app/BUCK" afterPath="$PROJECT_DIR$/cLoginView/android/app/BUCK" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/app/build.gradle" afterPath="$PROJECT_DIR$/cLoginView/android/app/build.gradle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/cLoginView/android/app/proguard-rules.pro" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/cLoginView/android/app/src/main/AndroidManifest.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/app/src/main/java/com/loginview/MainActivity.java" afterPath="$PROJECT_DIR$/cLoginView/android/app/src/main/java/com/loginview/MainActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/app/src/main/java/com/loginview/MainApplication.java" afterPath="$PROJECT_DIR$/cLoginView/android/app/src/main/java/com/loginview/MainApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/cLoginView/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/cLoginView/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/cLoginView/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/cLoginView/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/cLoginView/android/app/src/main/res/values/strings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/cLoginView/android/app/src/main/res/values/styles.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/build.gradle" afterPath="$PROJECT_DIR$/cLoginView/android/build.gradle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/gradle.properties" afterPath="$PROJECT_DIR$/cLoginView/android/gradle.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/cLoginView/android/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/cLoginView/android/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/gradlew" afterPath="$PROJECT_DIR$/cLoginView/android/gradlew" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/gradlew.bat" afterPath="$PROJECT_DIR$/cLoginView/android/gradlew.bat" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/keystores/BUCK" afterPath="$PROJECT_DIR$/cLoginView/android/keystores/BUCK" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/keystores/debug.keystore.properties" afterPath="$PROJECT_DIR$/cLoginView/android/keystores/debug.keystore.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/android/settings.gradle" afterPath="$PROJECT_DIR$/cLoginView/android/settings.gradle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/img/icon.png" afterPath="$PROJECT_DIR$/cLoginView/img/icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/img/icon3.png" afterPath="$PROJECT_DIR$/cLoginView/img/icon3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/img/icon7.png" afterPath="$PROJECT_DIR$/cLoginView/img/icon7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/img/icon8.png" afterPath="$PROJECT_DIR$/cLoginView/img/icon8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/img/img_01.png" afterPath="$PROJECT_DIR$/cLoginView/img/img_01.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/img/img_02.png" afterPath="$PROJECT_DIR$/cLoginView/img/img_02.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/img/img_03.png" afterPath="$PROJECT_DIR$/cLoginView/img/img_03.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/img/img_04.png" afterPath="$PROJECT_DIR$/cLoginView/img/img_04.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/img/img_05.png" afterPath="$PROJECT_DIR$/cLoginView/img/img_05.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/index.android.js" afterPath="$PROJECT_DIR$/cLoginView/index.android.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/index.ios.js" afterPath="$PROJECT_DIR$/cLoginView/index.ios.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView.xcodeproj/project.pbxproj" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView.xcodeproj/xcshareddata/xcschemes/LoginView.xcscheme" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView.xcodeproj/xcshareddata/xcschemes/LoginView.xcscheme" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/AppDelegate.h" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/AppDelegate.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/AppDelegate.m" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/AppDelegate.m" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Base.lproj/LaunchScreen.xib" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Base.lproj/LaunchScreen.xib" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Images.xcassets/AppIcon.appiconset/Contents.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Images.xcassets/Contents.json" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/Contents.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Images.xcassets/img/Contents.json" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/images/Contents.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Images.xcassets/img/img_01.imageset/Contents.json" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Images.xcassets/img/img_01.imageset/Contents.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Images.xcassets/img/img_01.imageset/img_01.png" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Images.xcassets/img/img_01.imageset/img_01.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Images.xcassets/img/img_02.imageset/Contents.json" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Images.xcassets/img/img_02.imageset/Contents.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Images.xcassets/img/img_02.imageset/img_02.png" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Images.xcassets/img/img_02.imageset/img_02.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Images.xcassets/img/img_03.imageset/Contents.json" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Images.xcassets/img/img_03.imageset/Contents.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Images.xcassets/img/img_03.imageset/img_03.png" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Images.xcassets/img/img_03.imageset/img_03.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Images.xcassets/img/img_04.imageset/Contents.json" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Images.xcassets/img/img_04.imageset/Contents.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Images.xcassets/img/img_04.imageset/img_04.png" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Images.xcassets/img/img_04.imageset/img_04.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Images.xcassets/img/img_05.imageset/Contents.json" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Images.xcassets/img/img_05.imageset/Contents.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Images.xcassets/img/img_05.imageset/img_05.png" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Images.xcassets/img/img_05.imageset/img_05.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/Info.plist" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/Info.plist" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginView/main.m" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginView/main.m" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginViewTests/Info.plist" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginViewTests/Info.plist" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/ios/LoginViewTests/LoginViewTests.m" afterPath="$PROJECT_DIR$/cLoginView/ios/LoginViewTests/LoginViewTests.m" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/loginView.js" afterPath="$PROJECT_DIR$/cLoginView/loginView.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/package.json" afterPath="$PROJECT_DIR$/cLoginView/package.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoginView/scrollView.js" afterPath="$PROJECT_DIR$/cLoginView/scrollView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fNavDemo/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/.gitattributes" afterPath="$PROJECT_DIR$/bMyProject/.gitattributes" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/android/app/BUCK" afterPath="$PROJECT_DIR$/bMyProject/android/app/BUCK" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/android/app/build.gradle" afterPath="$PROJECT_DIR$/bMyProject/android/app/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/android/app/src/main/java/com/bmyproject/MainActivity.java" afterPath="$PROJECT_DIR$/bMyProject/android/app/src/main/java/com/bmyproject/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/android/app/src/main/java/com/bmyproject/MainApplication.java" afterPath="$PROJECT_DIR$/bMyProject/android/app/src/main/java/com/bmyproject/MainApplication.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/android/build.gradle" afterPath="$PROJECT_DIR$/bMyProject/android/build.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/android/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/bMyProject/android/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/android/keystores/BUCK" afterPath="$PROJECT_DIR$/bMyProject/android/keystores/BUCK" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/android/settings.gradle" afterPath="$PROJECT_DIR$/bMyProject/android/settings.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/badgeData.json" afterPath="$PROJECT_DIR$/bMyProject/badgeData.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/img/icon.png" afterPath="$PROJECT_DIR$/bMyProject/img/icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/img/liantiaobao.png" afterPath="$PROJECT_DIR$/bMyProject/img/liantiaobao.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/img/qianbao.png" afterPath="$PROJECT_DIR$/bMyProject/img/qianbao.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/img/shoutibao.png" afterPath="$PROJECT_DIR$/bMyProject/img/shoutibao.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/index.ios.js" afterPath="$PROJECT_DIR$/bMyProject/index.ios.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/ios/BmyProject.xcodeproj/xcshareddata/xcschemes/BmyProject.xcscheme" afterPath="$PROJECT_DIR$/bMyProject/ios/BmyProject.xcodeproj/xcshareddata/xcschemes/BmyProject.xcscheme" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/ios/BmyProject/Base.lproj/LaunchScreen.xib" afterPath="$PROJECT_DIR$/bMyProject/ios/BmyProject/Base.lproj/LaunchScreen.xib" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/ios/BmyProject/Images.xcassets/img/danjianbao.imageset/danjianbao.png" afterPath="$PROJECT_DIR$/bMyProject/ios/BmyProject/Images.xcassets/img/danjianbao.imageset/danjianbao.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BMyProject/ios/BmyProject/Info.plist" afterPath="$PROJECT_DIR$/bMyProject/ios/BmyProject/Info.plist" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ListViewDemo/index.android.js" afterPath="$PROJECT_DIR$/ListViewDemo/index.android.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ListViewDemo/index.ios.js" afterPath="$PROJECT_DIR$/ListViewDemo/index.ios.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/ListViewDemo/ios/ListViewDemo/Images.xcassets/AppIcon.appiconset/Contents.json" />
     </list>
     <ignored path="React-Native.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -149,7 +43,20 @@
     <favorites_list name="React-Native" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fNavDemo/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+              <folding>
+                <element signature="e#158#197#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -181,6 +88,9 @@
         <option value="$PROJECT_DIR$/ListViewDemo/listViewDemoIndex.js" />
         <option value="$PROJECT_DIR$/ListViewDemo/index.android.js" />
         <option value="$PROJECT_DIR$/ListViewDemo/index.js" />
+        <option value="$PROJECT_DIR$/fNavDemo/index.ios.js" />
+        <option value="$PROJECT_DIR$/fNavDemo/index.js" />
+        <option value="$PROJECT_DIR$/fNavDemo/index.android.js" />
       </list>
     </option>
   </component>
@@ -236,6 +146,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="React-Native" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="React-Native" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="React-Native" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fNavDemo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -344,18 +268,18 @@
       <workItem from="1484616951920" duration="1173000" />
       <workItem from="1484625098618" duration="11919000" />
       <workItem from="1484802282923" duration="339000" />
-      <workItem from="1484803599833" duration="15605000" />
+      <workItem from="1484803599833" duration="17392000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55858000" />
+    <option name="totallyTimeSpent" value="57645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21458334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21458334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -756,6 +680,37 @@
         <state relative-caret-position="221">
           <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fNavDemo/index.android.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#89#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fNavDemo/index.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fNavDemo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding>
+            <element signature="e#158#197#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
