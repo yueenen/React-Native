@@ -18,19 +18,75 @@ import {
 } from 'react-native';
 
 var fNavDemo = React.createClass({
+    getInitialState(){
+        return {
+            selectedTabBarItem: 'home'
+        }
+    },
     render() {
         return (
             <View style={styles.container}>
 
-                <View>
-                    <Text>
+                <View style={styles.tit}>
+                    <Text style={{textAlign: 'center', lineHeight: 40, fontSize: 24, color: '#ffffff'}}>
                         Tab 选项卡的切换
                     </Text>
                 </View>
 
-                <TabBarIOS>
+                <TabBarIOS barTintColor={'#fff '}>
 
-                    <TabBarIOS.Item ststemIcon="contacts"></TabBarIOS.Item>
+                    {/*第一页*/}
+                    <TabBarIOS.Item
+                        systemIcon="contacts"
+                        badge="3"
+                        selected={this.state.selectedTabBarItem == 'home'}
+                        onPress={()=> {
+                            this.setState({selectedTabBarItem: 'home'})
+                        }}
+                    >
+                        <View style={styles.innerWrap}>
+                            <Text style={styles.innerWrapText}>首页</Text>
+                        </View>
+                    </TabBarIOS.Item>
+
+                    {/*第二页*/}
+                    <TabBarIOS.Item
+                        systemIcon="bookmarks"
+                        selected={this.state.selectedTabBarItem == 'bookmarks'}
+                        onPress={()=> {
+                            this.setState({selectedTabBarItem: 'bookmarks'})
+                        }}
+                    >
+                        <View style={styles.innerWrap}>
+                            <Text style={styles.innerWrapText}>第二页</Text>
+                        </View>
+                    </TabBarIOS.Item>
+
+                    {/*第三页*/}
+                    <TabBarIOS.Item
+                        systemIcon="downloads"
+                        selected={this.state.selectedTabBarItem == 'downloads'}
+                        onPress={()=> {
+                            this.setState({selectedTabBarItem: 'downloads'})
+                        }}
+                    >
+                        <View style={styles.innerWrap}>
+                            <Text style={styles.innerWrapText}>第三页</Text>
+                        </View>
+                    </TabBarIOS.Item>
+
+                    {/*第四页*/}
+                    <TabBarIOS.Item
+                        systemIcon="search"
+                        selected={this.state.selectedTabBarItem == 'search'}
+                        onPress={()=> {
+                            this.setState({selectedTabBarItem: 'search'})
+                        }}
+                    >
+                        <View style={styles.innerWrap}>
+                            <Text style={styles.innerWrapText}>第四页</Text>
+                        </View></TabBarIOS.Item>
+
                 </TabBarIOS>
             </View>
 
@@ -39,8 +95,23 @@ var fNavDemo = React.createClass({
 });
 
 const styles = StyleSheet.create({
-    container:{
-
+    tit: {
+        paddingTop:22,
+        height: 40,
+        backgroundColor: 'deepskyblue',
+    },
+    container: {
+        //marginTop: 22,
+        flex: 1,
+        backgroundColor: '#fff'
+    },
+    innerWrap: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center'
+    },
+    innerWrapText:{
+        fontSize: 30
     }
 });
 module.exports = fNavDemo;

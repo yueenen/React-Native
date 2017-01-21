@@ -9,8 +9,7 @@ import {
     AppRegistry,
     StyleSheet,
     Text,
-    View,
-    Image,
+    View
 } from 'react-native';
 
 var navDemo = require('./index.js');
